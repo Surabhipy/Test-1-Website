@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Noto Serif', serif;
+    font-size: 56px;
+    color: darkblue;
+    text-align: center;
+    text-shadow: 2px 2px #FECDC3;
+}
+h2{
+    font-family: 'Noto Serif', serif;
+    font-size: 32px;
+    color: darkcyan;
+    text-align: center;
+}
+h3{
+    font-family: 'Noto Serif', serif;
+    font-size: 24px;
+    color: #000;
+    text-align: left;
+}
+p{
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 12px;
+    color: #000;
+    text-align: left;
+}
