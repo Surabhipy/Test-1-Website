@@ -36,7 +36,7 @@ p{
     padding-left: 10px;
     padding-right: 10px;
     background-color: cornflowerblue;
-    background-image: url("https://images.pexels.com/photos/6128826/pexels-photo-6128826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-image: url("https://images.pexels.com/photos/256262/pexels-photo-256262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -48,7 +48,7 @@ p{
 
 }
 footer{
-    background-color: lightsteelblue;
+    background-color: beige;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
