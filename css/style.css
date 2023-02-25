@@ -50,6 +50,5 @@ p{
 footer{
     background-color: beige;
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+  padding: 20px 10px;
 }
