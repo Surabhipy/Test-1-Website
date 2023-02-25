@@ -7,7 +7,7 @@ body{
 h1{
     font-family: 'Noto Serif', serif;
     font-size: 56px;
-    color: darkblue;
+    color: white;
     text-align: center;
     text-shadow: 2px 2px #FECDC3;
 }
@@ -28,4 +28,17 @@ p{
     font-size: 16px;
     color: #000;
     text-align: left;
+}
+
+.homepage-hero{
+    height: 240px;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: cornflowerblue;
+}
+
+.main-content{
+
 }
