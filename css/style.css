@@ -37,6 +37,8 @@ p{
     padding-right: 10px;
     background-color: cornflowerblue;
     background-image: url("https://images.pexels.com/photos/6128826/pexels-photo-6128826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .main-content{
