@@ -43,7 +43,10 @@ p{
     width: 800px;
     margin: 0 auto;
     padding: 0 10px;
-    
 
-
+}
+footer{
+    background-color: powderblue;
+    text-align: center;
+    padding: 50px 10px;
 }
