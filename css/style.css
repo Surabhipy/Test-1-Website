@@ -60,6 +60,10 @@ footer{
     display: flex;
 }
 
+.article-left div{
+width: 40%;
+}
+
 .article-left{
     flex-direction: row;
 }
