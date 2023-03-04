@@ -58,6 +58,7 @@ footer{
 
 .article-left, .article-right{
     display: flex;
+    justify-content: space-between;
 }
 
 .article-left div{
