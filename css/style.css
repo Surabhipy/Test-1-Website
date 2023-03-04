@@ -58,5 +58,8 @@ footer{
 
 .article-left, .article-right{
     display: flex;
+}
 
+.article-left img, .article-right img{
+    width: 50%;
 }
